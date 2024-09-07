@@ -1,0 +1,4 @@
+#!bin/bash
+chmod +x switch_user.sh
+su betty
+
