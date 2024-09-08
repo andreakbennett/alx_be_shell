@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello
+./create_hello.sh
